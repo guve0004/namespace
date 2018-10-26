@@ -1,1 +1,1 @@
-# namspace
+# namespace
