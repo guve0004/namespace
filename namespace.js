@@ -5,7 +5,7 @@ var GUVE0004 = {
 		let div = document.createElement(“div”);
 
 		div.setAttribute(“class”, “box”);
-		div.textContent = “guve0004 ";
+		div.textContent = “guve0004";
 
 
 		div.addEventListener(“click”, () => {
